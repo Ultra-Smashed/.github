@@ -1,8 +1,6 @@
 # Ultra Smashed
 
-Offene Claude-Skills für konkrete Arbeit. Auf Deutsch, mit klarer Grenze, was der Skill tut und was du selbst freigibst.
-
-Christopher Thanisch, Ultra Smashed GmbH, Köln.
+Hey, ich bin Christopher Thanisch, Gründer der Ultra Smashed GmbH in Köln. Ich mache aus KI funktionierende Systeme. Die Skills dafür liegen in diesem Account, auf Deutsch, für den Arbeitsalltag.
 
 ## Installieren
 
