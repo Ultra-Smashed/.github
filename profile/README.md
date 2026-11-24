@@ -14,30 +14,30 @@ In der Claude-App den Repo-Link in einen neuen Chat legen und „Installier dies
 
 ## Skills
 
-### Kanäle
+### Marketing & Social Media
 
 - [linkedin-agent-skill](https://github.com/Ultra-Smashed/linkedin-agent-skill) schreibt, prüft und plant LinkedIn-Posts.
 - [instagram-agent-skill](https://github.com/Ultra-Smashed/instagram-agent-skill) macht Reel, Caption, Kommentare und Wochenplan.
 - [youtube-skill](https://github.com/Ultra-Smashed/youtube-skill) schreibt Skript, Titel und Schnittliste für einen YouTube-Kanal. Hochgeladen wird nichts.
 - [marketing-skill](https://github.com/Ultra-Smashed/marketing-skill) plant Inhalte in deiner Stimme, von der Markenstimme bis zum Newsletter.
 
-### Kunden
+### Sales & Kunden
 
 - [erstkunden-skill](https://github.com/Ultra-Smashed/erstkunden-skill) sucht zahlende Kunden, bevor das Produkt fertig ist.
 - [vertriebs-skill](https://github.com/Ultra-Smashed/vertriebs-skill) bereitet Gespräche vor, schreibt Angebote und hakt nach.
 - [kundenservice-skill](https://github.com/Ultra-Smashed/kundenservice-skill) übernimmt Onboarding, Posteingang und heikle Nachrichten.
 
-### Bewerben
+### Jobs & Bewerben
 
 - [bewerbungs-skill](https://github.com/Ultra-Smashed/bewerbungs-skill) macht aus dem Lebenslauf Stellentitel, eine Portfolio-Website und angepasste Bewerbungen.
 
-### Buchhaltung
+### Finanzen & Buchhaltung
 
 - [finanzen-skill](https://github.com/Ultra-Smashed/finanzen-skill) prüft Belege, Liquidität und Mahnungen, unabhängig vom Programm.
 - [lexware-skill](https://github.com/Ultra-Smashed/lexware-skill) erledigt Rechnungen, Belege und Mahnungen in Lexware Office.
 - [sevdesk-skill](https://github.com/Ultra-Smashed/sevdesk-skill) räumt Rechnungen, Belege und den Bankabgleich in sevDesk auf.
 
-### Firma
+### Business & Strategie
 
 - [strategie-skill](https://github.com/Ultra-Smashed/strategie-skill) prüft Positionierung, Angebot und die nächste Entscheidung.
 - [prozess-skill](https://github.com/Ultra-Smashed/prozess-skill) macht Wissen übergebbar, vom Briefing bis zur Anleitung.
@@ -50,7 +50,7 @@ In der Claude-App den Repo-Link in einen neuen Chat legen und „Installier dies
 - [reflexion-skill](https://github.com/Ultra-Smashed/reflexion-skill) bespricht eine Aufgabe nach und schreibt die Lektion fest.
 - [tutor-skill](https://github.com/Ultra-Smashed/tutor-skill) macht aus einem Thema einen Minikurs und prüft jede Aussage mit zwei Quellen.
 
-### Handel
+### Aktien & Trading
 
 - [daytrader-skill](https://github.com/Ultra-Smashed/daytrader-skill) ist ein Satz Skills fürs Daytrading. Paper zuerst, keine Anlageberatung.
 
